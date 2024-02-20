@@ -1,0 +1,6 @@
+@Radoc_HostAddress = http://localhost:5008
+
+GET {{Radoc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
